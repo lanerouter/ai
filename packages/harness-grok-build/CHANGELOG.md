@@ -1,5 +1,12 @@
 # @ai-sdk/harness-grok-build
 
+## 1.0.113
+
+### Patch Changes
+
+- @ai-sdk/harness@1.0.174
+- @ai-sdk/harness-acp@1.0.114
+
 ## 1.0.112
 
 ### Patch Changes
